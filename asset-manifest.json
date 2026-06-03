@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MarinaArmenovnaDev/dz-auto-s2/static/css/main.29030a01.css",
+    "main.js": "/MarinaArmenovnaDev/dz-auto-s2/static/js/main.f4fc1c10.js",
+    "static/js/787.66cb4309.chunk.js": "/MarinaArmenovnaDev/dz-auto-s2/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/MarinaArmenovnaDev/dz-auto-s2/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/MarinaArmenovnaDev/dz-auto-s2/index.html",
+    "main.29030a01.css.map": "/MarinaArmenovnaDev/dz-auto-s2/static/css/main.29030a01.css.map",
+    "main.f4fc1c10.js.map": "/MarinaArmenovnaDev/dz-auto-s2/static/js/main.f4fc1c10.js.map",
+    "787.66cb4309.chunk.js.map": "/MarinaArmenovnaDev/dz-auto-s2/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29030a01.css",
+    "static/js/main.f4fc1c10.js"
+  ]
+}
